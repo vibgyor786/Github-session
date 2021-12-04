@@ -1,10 +1,7 @@
 this is android 1
 this is android 2
 this is android 3
-this is android 4
-this is android 5
-<<<<<<< HEAD
+this is ios 4
+this is ios 5
 this is new 
-=======
 this is branch main
->>>>>>>
