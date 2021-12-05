@@ -11,5 +11,9 @@ this is ios 10
 this is ios 11
 this is new 
 
+<<<<<<< HEAD
 this is a change by ganesh
+=======
+how are u doing
+>>>>>>> cfd7f839b635e63d2858b9bcbcf2f06a641d6fc8
 
